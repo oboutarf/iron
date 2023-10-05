@@ -13,7 +13,7 @@ ignore = [
   "RUSTSEC-2023-0052",
 ]
 
-[licenses]
+[licenses]   
 allow = [
   "MIT",
   "MIT-0",
